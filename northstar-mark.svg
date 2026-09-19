@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="#ffffff">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" fill="none">
   <title>Northstar</title>
-  <path d="M8.5 22.2 27.2 8.6l9.4 12.9-7.4 5.4L8.5 22.2z"/>
-  <path d="M28.6 42.8 18.4 51.4 8.8 38.2l11.6-8.4 8.2 13z"/>
-  <path d="M36.2 11.4 47.8 25.8 27.8 40.6 16.4 26 36.2 11.4z"/>
-  <path d="M48.2 8.2 51 14.6 57.8 16.2 51.6 19.4 49.8 26.4 46.2 20.2 39.4 19.2 45.2 15.2z"/>
+  <path d="M6 52 C16 48, 24 40, 32 30" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" opacity="0.18"/>
+  <path d="M9 54 C20 49, 28 40, 35 29.5" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" opacity="0.34"/>
+  <path d="M13 55.5 C24 49.5, 32 40, 37.5 29" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" opacity="0.55"/>
+  <path fill="#ffffff" d="M42 12
+    C42.7 21.2, 45.4 26.8, 52 30
+    C45.4 33.2, 42.7 38.8, 42 48
+    C41.3 38.8, 38.6 33.2, 32 30
+    C38.6 26.8, 41.3 21.2, 42 12Z"/>
+  <circle cx="42" cy="30" r="2.2" fill="#ffffff"/>
 </svg>
