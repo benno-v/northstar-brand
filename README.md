@@ -4,5 +4,9 @@ Public HTTPS assets so Gmail can load the marks. CID attachments do not work fro
 
 - `grok-logo.png` / `grok-icon.svg` — official Grok G-slash (Feb 2025 mark)
 - `grok-wordmark.svg` — official Grok wordmark, white
+<<<<<<< HEAD
 - `northstar-mark.png` / `northstar-mark.svg` — Northstar icon: flat white four-point orbital star with satellite on the ring (white on transparent)
 - `northstar-lockup.png` — Northstar lockup: icon + NORTHSTAR wordmark + divider with small star (white on transparent, for email signatures and headers)
+=======
+- `northstar-mark.png` / `northstar-mark.svg` — a four-point star with a slight curved trail
+>>>>>>> origin/main
